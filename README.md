@@ -3,6 +3,7 @@
 
 
 ### Blog Entries
-1. [**Haskell:** Installing, running, and basic usage](https://github.com/lblack1/cpsc354-blog/week-1)
-2. [**Defining numbers:** Converting intuitive counting to computable ](https://github.com/lblack1/cpsc354-blog/week-2)
-3. [**Advanced Haskell:** Loading files and data types](https://github.com/lblack1/cpsc354-blog/week-3)
+1. [**Installing Haskell, etc:** Installing and running](https://github.com/lblack1/cpsc354-blog/week-1.md)
+2. [**Basic Haskell:** The Haskell approach to programming](https://github.com/lblack1/cpsc354-blog/week-2.md)
+3. [**Defining numbers:** Converting intuitive counting to computable ](https://github.com/lblack1/cpsc354-blog/week-3.md)
+4. [**Advanced Haskell:** Loading files and data types](https://github.com/lblack1/cpsc354-blog/week-4.md)
