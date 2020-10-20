@@ -44,3 +44,6 @@ Entering the command above should spit out something that looks similar to this:
 > GHCi, version 8.6.5: http://www.haskell.org/ghc/  :? for help
 > Prelude> 
 From here, you can now interact with Haskell as one would through the interactive Python shell. In order to make sure this is the case, you can enter '1+1', and it should return a 2.
+
+
+[***Next week: Basic Haskell***](https://github.com/lblack1/cpsc354-blog/blob/main/week-2.md)
